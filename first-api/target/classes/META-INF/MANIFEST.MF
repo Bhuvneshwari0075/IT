@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pinky
+Build-Jdk: 16.0.2
+Implementation-Title: CourseApiApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.javalearning
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/first-api/
+Created-By: Maven Integration for Eclipse
+
